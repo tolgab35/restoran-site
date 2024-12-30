@@ -68,3 +68,4 @@ Bu projeye katkı sağlamak isterseniz, aşağıdaki adımları takip edebilirsi
 ## Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır.
+
